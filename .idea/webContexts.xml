@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/blog/blogReg.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/blog" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/board/get.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/board" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/board/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/board" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/memList.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+      </map>
+    </option>
+  </component>
+</project>
